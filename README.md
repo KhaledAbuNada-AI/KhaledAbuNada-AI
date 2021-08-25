@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled Abu Nada</h1>
-<h3 align="center">artificial intelligence developer (computer vision and neuro-linguistic programming) I graduated from the Faculty of Information Technology at the Islamic University of Gaza I build models for machine learning or deep learning I provide advice and guidance for building professional machine learning or deep learning models. I am passionate about my work and work creatively</h3>
+<h3 align="center">artificial intelligence developer (computer vision and NLP) I graduated from the Faculty of Information Technology at the Islamic University of Gaza I build models for machine learning or deep learning I provide advice and guidance for building professional machine learning or deep learning models. I am passionate about my work and work creatively</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/120180163](https://github.com/120180163)
 
