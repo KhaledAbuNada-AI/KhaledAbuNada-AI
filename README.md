@@ -38,9 +38,9 @@
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/120180163">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=120180163&show_icons=true&theme=dark&count_private=true&include_all_commits=true&locale=en" alt="KhaledNada" align="center"/>
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=120180163&theme=dark" alt="KhaledNada" align="center"/>
+  <a href="https://github.com/KhaledAbuNada-AI">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KhaledAbuNada-AI&show_icons=true&theme=dark&count_private=true&include_all_commits=true&locale=en" alt="KhaledNada" align="center"/>
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=KhaledAbuNada-AI&theme=dark" alt="KhaledNada" align="center"/>
   </a>
 </p>
 
@@ -60,12 +60,12 @@
 <!--
 <p align="right">
   <a href="https://github.com/120180">
-    <img src="https://komarev.com/ghpvc/?username=120180163&label=Views&color=0e75b6&style=flat-square" alt="skaurl"/>
+    <img src="https://komarev.com/ghpvc/?username=KhaledAbuNada-AI&label=Views&color=0e75b6&style=flat-square" alt="skaurl"/>
   </a>
 </p>
 -->
 <!--
-**120180163/120180163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KhaledAbuNada-AI/KhaledAbuNada-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
