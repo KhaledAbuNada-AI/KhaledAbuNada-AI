@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?&type=waving&section=header&height=200&text=Khaled%20AbuNada&animation=fadeIn)
 
-# Hi 👋, I'm Khaled Abu Nada
+# Hi 👋, I'm Khaled Abu  Nada
 
 ## 👨🏻‍💻 About Me
 
